@@ -4,6 +4,14 @@
 This project analyzes customer churn behavior using Power BI.  
 The dashboard helps identify churn patterns based on contract type, payment method, tenure, internet service and monthly charges.
 
+Description:
+Customer Churn Analysis Dashboard using Power BI, DAX and Power Query
+
+Website:
+https://mohit8059.github.io/Mohit_Portfolio/customer_churn_analysis.html
+
+Topics:
+power-bi, dax, data-analysis, customer-churn, dashboard, power-query
 ## Tools Used
 - Power BI
 - Power Query
